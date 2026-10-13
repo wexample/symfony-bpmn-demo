@@ -3,7 +3,3 @@ services:
         autowire: true
         autoconfigure: true
         public: false
-
-    Wexample\SymfonyBpmnDemo\Controller\:
-        resource: '../../Controller/'
-        tags: ['controller.service_arguments']
