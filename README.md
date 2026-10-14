@@ -1,6 +1,6 @@
 # symfony-bpmn-demo
 
-Version: 2.1.0
+Version: 2.1.1
 
 Demo pages of symfony-bpmn: the examples of php-bpmn, on the teams of symfony-user-demo
 
@@ -33,7 +33,7 @@ Visit the [Wexample Suite documentation](https://docs.wexample.com) for the comp
 - wexample/symfony-bpmn: >=2.0.0
 - wexample/symfony-bpmn-ds: >=2.0.0
 - wexample/symfony-user: >=12.0.0
-- wexample/symfony-user-demo: >=6.0.0
+- wexample/symfony-user-demo: >=6.1.0
 
 ## Versioning & Compatibility Policy
 
