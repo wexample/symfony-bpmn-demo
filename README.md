@@ -1,6 +1,6 @@
 # symfony-bpmn-demo
 
-Version: 2.1.5
+Version: 2.1.6
 
 Demo pages of symfony-bpmn: the examples of php-bpmn, on the teams of symfony-user-demo
 
@@ -25,7 +25,7 @@ The suite includes packages for configuration management, file handling, prompts
 
 - php: >=8.5
 - wexample/symfony-helpers: >=18.0.0
-- wexample/symfony-loader: >=24.0.0
+- wexample/symfony-loader: >=25.0.0
 - wexample/symfony-design-system: >=39.0.0
 - wexample/php-bpmn: >=2.0.0
 - wexample/symfony-bpmn: >=3.0.0
