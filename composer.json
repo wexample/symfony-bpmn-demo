@@ -1,6 +1,6 @@
 {
   "name": "wexample/symfony-bpmn-demo",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "type": "library",
   "license": "MIT",
   "autoload": {
@@ -22,14 +22,14 @@
   ],
   "require": {
     "php": ">=8.5",
-    "wexample/symfony-helpers": ">=18.0.0",
-    "wexample/symfony-loader": ">=25.0.0",
-    "wexample/symfony-design-system": ">=39.0.0",
-    "wexample/php-bpmn": ">=2.0.0",
-    "wexample/symfony-bpmn": ">=3.0.0",
-    "wexample/symfony-bpmn-ds": ">=2.0.0",
-    "wexample/symfony-user": ">=14.0.0",
-    "wexample/symfony-user-demo": ">=8.0.0"
+    "wexample/symfony-helpers": ">=18.0.2",
+    "wexample/symfony-loader": ">=25.0.1",
+    "wexample/symfony-design-system": ">=39.0.3",
+    "wexample/php-bpmn": ">=2.0.2",
+    "wexample/symfony-bpmn": ">=3.0.5",
+    "wexample/symfony-bpmn-ds": ">=2.0.8",
+    "wexample/symfony-user": ">=14.0.4",
+    "wexample/symfony-user-demo": ">=8.0.3"
   },
   "require-dev": {
     "phpunit/phpunit": "^13"
