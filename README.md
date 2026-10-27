@@ -1,6 +1,6 @@
 # symfony-bpmn-demo
 
-Version: 2.1.8
+Version: 2.1.9
 
 Demo pages of symfony-bpmn: the examples of php-bpmn, on the teams of symfony-user-demo
 
