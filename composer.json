@@ -1,6 +1,6 @@
 {
   "name": "wexample/symfony-bpmn-demo",
-  "version": "2.1.18",
+  "version": "2.1.19",
   "type": "library",
   "license": "MIT",
   "autoload": {
@@ -28,7 +28,7 @@
     "wexample/php-bpmn": ">=2.0.2",
     "wexample/symfony-bpmn": ">=4.0.0",
     "wexample/symfony-bpmn-ds": ">=2.0.8",
-    "wexample/symfony-user": ">=20.0.0",
+    "wexample/symfony-user": ">=21.0.0",
     "wexample/symfony-user-demo": ">=8.0.3"
   },
   "require-dev": {
